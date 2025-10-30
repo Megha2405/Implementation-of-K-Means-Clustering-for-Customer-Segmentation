@@ -73,24 +73,31 @@ plt.show()
 ![K Means Clustering for Customer Segmentation](sam.png)
 
 DATA.HEAD():
+
 ![alt text](image.png)
 
 DATA.INF0():
+
 ![alt text](image-1.png)
 
 DATA.ISNULL().SUM():
+
 ![alt text](image-2.png)
 
 PLOT USING ELBOW METHOD:
+
 ![alt text](image-3.png)
 
 K-MEANS CLUSTERING:
+
 ![alt text](image-4.png)
 
 Y_PRED ARRAY:
+
 ![alt text](image-5.png)
 
 CUSTOMER SEGMENT:
+
 ![alt text](image-6.png)
 
 
